@@ -1,0 +1,573 @@
+Text,Label
+Vinay tell me what is the difference between Fourier transform and short time Fourier transform?,Question
+Yes Sir. Difference between Fourier transform and short and Fourier transform correct? And from. So basically. Fourier transform deals with all the speech processing signals. And. For your transform mostly deals with uh so can you repeat the question Sir once?,Answer
+What's the difference between Fourier transform and HTT?,Question
+Fourier transform and HFT. Ah. I'm not sure what is HFT Sir.,Answer
+Some time for your transfer.,Statement
+Short term OK. Or short term for your transform. So short term for your transform Sir it's basically a technique which we'll be dealing with the short of the signals which we which will be dividing the signals into segments and like basically those windowing Sir. And it also like each window is analyzed by varying the different time frequency. So it so it basically analyzes those signals in different times different time frequencies using the process of either. Segmentation or computing the windowing process. And it yeah it analyzes the speech signal and. And also generates a spectrogram.,Answer
+Correct. What is the output of Fourier transform?,Question
+Out of output of for your transform. Yeah transform basically deals with decomposition of the signal. Yeah decomposition of the signal. Either by summing those. Sinusoidal compounds. And yeah magnitude and phase differences.,Answer
+And what is the output of STFT?,Question
+Top HFT. Output of HDFC deals with like the spectrogram generation. Spectrogram generation and speech analysis and signal processing.,Answer
+Yeah but OK now tell me what is the spectrogram?,Question
+Spectrogram like yeah spectrogram is a visual representation of the signal in a 2D. Plot. Uh which represents uh. Uh X axis has the time and Y axis as the frequency. Or like it is mainly used for. It is mainly used when the signals are need to be analyzed over that time.,Answer
+So both are generating frequencies right?,Question
+Yes Sir. Both are generating frequencies.,Answer
+So how do you decide where you should use STFT and where to use for your transform?,Question
+So STFT is mainly used in audio processing or speech processing system Sir. So and yes Sir.,Answer
+No go ahead.,Statement
+And four year. Transform is. Transform is basically used in signal processing yeah. So when it is also used in signal processing and and it can be also used in like control system mathematical computation statistics all those for Fourier transform and this spectrogram mainly deals with image processing and speed signal. And audio processing.,Answer
+Yes TFT is used in speech processing. And not for your transport. It is also any other signal type.,Statement
+Yes Sir. So I think it's basically based on the time frequency analysis part. So if you need a particular segments from the signals no Sir. So I think this STFT is way better than. The Fourier transform. Was will be dealing with a particular time frequency range. So we can improve on the specific range of the signal cell.,Answer
+OK very good. We'll move on to Tushar now. Yes Sir. USA. Yes Sir.,Statement
+What is the difference between dot product and convolution?,Question
+Dot product L convolution so. Yes.,Statement
+So basically dot product and conservation both are medical operations but they serve different purposes. So basically in dot product which is also known as. One second Sir? Yeah. Yeah difference between dot productors it's it's used in physics engineering and computer science. So in when we come to convolution there. So yes Sir our dot product is used in calculating the vector length and then our convolution is used in image processing. Applying a fix like learning sharpening sharpening in within like the CNS which are convolution neural networks for basically for feature extraction.,Answer
+Very good. So you have studied about the CNN architectures right?,Question
+So actually we did the projects based on that process. So I have a basic knowledge on that.,Answer
+So that is fine but you are also studying. Deep learning right? Ah yes Sir.,Statement
+So in deep learning CNN. Architectures are covered or not.,Question
+In deep learning Sir. Yes.,Statement
+One second. We lost a lot of disturbances. Yes Sir. So. Am I audible?,Question
+Yes you are audible.,Answer
+Yes. So what was the question? I have forgot the question.,Statement
+The question is have you studied convolutional neural networks in deep learning?,Question
+Yes Sir.,Answer
+Which architectures of CNN do you know?,Question
+Architectures of CNN as are.,Statement
+Tell me name of one CNN network.,Question
+Yes. Unseen network. MHM. So let me go through it. In network. So basically we have input in the layer convolution layer and then.,Statement
+No no no. I'm not asking you to describe CNN. I'm asking do you name of give me a name of a CNN network.,Question
+Name of CNN network.,Statement
+You said you have used CNN networks right?,Question
+Yes Sir.,Answer
+So when you use CNN Networks is there a specific CNN network? That you use.,Question
+So VG 16.,Answer
+BG16 very good. Yeah. Yes Sir we have you. Yes Sir.,Statement
+There are different layers in VGG 16 right?,Question
+Yes Sir.,Answer
+Can you tell me which layer uses convolution and which layer uses dot product?,Question
+Ohh. I don't think I'll be able to answer that Sir.,Answer
+OK. Yes Sir.,Statement
+Why is it called? Is it is 16? What is 16 here?,Question
+Or 16 is basically there are 16 layers of architecture so in this.,Answer
+Are you sure?,Question
+Yes Sir. That is why the name is like VGG 16. No no no sorry. It has. Basically it has 13 convolution layers but the architecture layers are 16.,Answer
+What do you mean by that?,Question
+Sorry Sir.,Statement
+What do you mean by that? There are 30 convolution layers but architecture has 16 layers. What does it mean?,Question
+I don't know said like I'm not able to recall.,Answer
+OK. What is the input size of is 16?,Question
+Input size of VGG 16 Sir. Yes.,Statement
+It's uh 225 into 224 Sir.,Answer
+Is it color images or black and white images?,Question
+RG visor.,Answer
+I'll see. So do you necessarily have to give as big images or you can give some other images also?,Question
+Sir we need to give only like color images. Sir I don't think you'll be able to use black and white.,Answer
+You can't use black and white.,Question
+Yes Sir.,Answer
+OK. Thank you very much. So basically yes Sir.,Statement
+You are saying something?,Question
+No Sir. No Sir. Thank you.,Answer
+Have a good evening. Bye. OK so much. No.,Statement
+Well. You must tell me how can we recognize speech?,Question
+Through vocal cord by hearing. Speech book.,Answer
+So we can recognize this speech by spoken language. If you work with. Sir.,Statement
+If you have to design A speech recognition system what would be your constituent components?,Question
+Audio input to preprocessing feature extraction. Language modeling we can do like that and decoding.,Answer
+OK very good. So what features would you use for recognition of speech? Sir what features you use for? Recognition of speech.,Question
+For recognizing speech we can take into audio into two window.,Answer
+Yeah audio input you will take after that. What will you do?,Question
+We can do Fourier transform we can. Mel frequency cepstral coefficient MFC. In short time Fourier transform. Visiting banks and.,Answer
+What is? What is the difference between Fourier transform and short tank Fourier transform?,Question
+Sir.,Statement
+Would you transfer 1 short time? Great transform?,Question
+That's right.,Statement
+What are signal processing techniques so that visual to frequency content of the signal?,Question
+In fast Fourier transform it converts the signal from time domain representation to frequency domain system. But in the short term Fourier transform we can recognize the frequency content of the signal over short overlapping at the time windows.,Answer
+What is an ideal time window for STFT?,Question
+Ideal time. Window.,Statement
+What is an ideal window length for short temperature transform?,Question
+I don't know this person.,Answer
+No problem.,Statement
+What are the different kind of windows? Which are used.,Question
+Rectangles. Rectangular rectangular.,Answer
+Correct. Anything else?,Question
+Cosine.,Answer
+Cosine OK. Anything else?,Question
+And that only I know.,Answer
+That only you know. Very good. Yeah. So can you explain what are MFCC's? What are MFC male frequency? Ocean. What is meld frequency?,Question
+This month is it pictures that approximate? The human or you operatory system response to different frequencies.,Answer
+And what is? What are the other?,Question
+Really.,Statement
+Characteristics of it.,Question
+Cepstral coefficients. Attach cepstral coefficient. On. Cepstral analysis mainly taking the inverse Fourier transform of spectrum of the signal Sir but in coefficients. The proton power. Spectrum of the sound which sets the coefficient.,Answer
+OK. OK very good. Thank you Kumar. We'll go over to Siddharth. Tangles. Hello. Yes Mr. Siddharth. Yes Sir. What is the difference is yes I can hear you.,Statement
+Hello Sir can you hear me? What is the difference between a set and list in Python?,Question
+The set is. Where we cannot store the duplicate duplicate value Sir. But least we can store the duplicate values Sir.,Answer
+And list and dictionary.,Question
+So the dictionary is where we store in a format of key and value format Sir like. Key key key cannot be duplicated Sir. But but value can be duplicated.,Answer
+OK. Suppose you have a dictionary. Can you retrieve the values by the by not using the key but by using the value?,Question
+And no Sir it is not possible. Sir because for the value it is difference. No Sir. Key is the difference for the value to retrieve so that. That's why it is not. Possible.,Answer
+OK. But. Very good. How will you find out if two vectors are orthogonal or not?,Question
+Sir is where the the dot product is 0 and.,Answer
+And.,Statement
+But that that that's all Sir. Whether whether the two two dot products are zero. Yes Sir. That that's all for orthogonal.,Answer
+So. Why do the two vectors become orthogonal? When dot product is 0 why this condition? What is the logic behind it?,Question
+Because the both the vectors will be perpendicular Sir.,Answer
+Yes but if they are perpendicular why does the dot? Product become zero.,Question
+I said. Sir because the cost 90 is 0 Sir.,Answer
+OK. And how is Cos 90 related to dot product?,Question
+Sir like a ****. Cos is equal to A dot B by magnitude of A and magnitude of B Sir.,Answer
+Very good. What are the difference similarity measures? You know of.,Question
+What are the?,Statement
+Different. How will you measure similarity between two vectors?,Question
+I'm not sure about this question Sir.,Answer
+OK. What are the different types of? Distance measures do you know?,Question
+Euclidean distance Sir.,Answer
+Only one. Anything else you know.,Question
+Gaussian Sir. Gaussian.,Answer
+Yeah that's fine. And. So. Suppose we have. 2 events event A and event B. Yes Sir. OK. Now they are not independent. OK Sir.,Statement
+So would they have a intersection set? Which? Is not 5. Or their intersection set would be fine.,Question
+So they there will be no intersection between them Sir because they are independent. It is 5 Sir.,Answer
+Yeah but they are not independent.,Statement
+Sir if they are not independent we we will be getting no intersection for.,Answer
+OK now let's say a intersection B is equal to a Union B. Yes Sir.,Statement
+OK. Then what would be the conditional probability of a given B?,Question
+Sir I think it is one Sir.,Answer
+1. Yes Sir. OK. OK good. Thank you very much and good night. Yes Sir. Thank you Sir. That's fine. So satisfying text processing.,Statement
+OK so.,Answer
+"We use a similarity measure to find out how similar the documents are. How will we? Yes, so you.",Statement
+So. Did you hear me?,Question
+"Sir, can you please come again? I'm not. Able to hear properly. You have a stable network connection. Aye.",Statement
+"Yes, Sir. I'm using college network. Sometimes it will come, sometimes it won't come.",Answer
+Then there is no point in having this conversation.,Statement
+"So I'll connect to my mobile number for the moment. Oh, oh, yes. Now you can proceed. OK. Can you name some? Similarity metrics which are used in text processing.",Answer
+Our text to proceed. We use cosine similarity and one more check out similarities.,Statement
+"OK, what is the difference between Jaccard similarity and cosine similarity?",Question
+"Different. Like Sir, I just want the formula between those two. As far as I know, like one will measure the importance of the text inside, I mean the words inside those textures and the frequency inside those texts.",Statement
+Which one?,Question
+I mean question similarity will work with TFIDF. That is like we'll find based on some formula and the in Jaccard similarity we use a bag of words kind of thing to find the frequency of the words in a document.,Answer
+What is a bag of word? What is a bag of water?,Question
+"Bag of words. Bag of words, Simon. Like it like if we have a normal document we used to have like we used to separate all those words like based on the documents, we'll find the frequency of those words like how many is there inside those document. There's a two types of there's 01. I mean the binary one if you have. The word in that document will mark as one or zero. There's one more thing we can find the frequency how many times the word repeated in the document. That's the total.",Statement
+OK.,Answer
+"In deep learning, have you heard of something called as a loss function?",Question
+Our loss function is.,Statement
+What is it?,Question
+"Or. Loss function. I mean, I know like to calculate loss function we use like MSCR, MSC and MA values.",Statement
+What are they? What is RSC? What is NSC? What is any?,Question
+"Those, those are loss functions or Ms. like mean square error. I will find the mean of those predicted values and the actual values based on that will find the the value for RMSC. I guess near 21 or near 20 will considered as best model. Remember RMS near to 1 is the best model I feel. And the other thing is ME and MSC near to 0 the best model film so I don't remember like properly the values.",Statement
+OK.,Answer
+Where do we? Use loss functions. Why? Why do we need a loss function?,Question
+I. Like to compare whether the actual I mean the printed values is correct. I mean is similar to between the printed and actual values.,Statement
+"Yeah, but why do you want to do that?",Question
+"So so that we'll get to know about our model, Sir. But like whether the model is performing well or not based on something we should find, the model is performing well for like for classification models, we use these. I mean the MSR, MSE, Mae and the MSA values for regression models. I think we use matrices, I guess so.",Answer
+"Also sorry. Yeah, but what it is you. To know the performance of the. To like to know the performance of the metrics or whether like it's performing well like we have created something like we got some. Mike. And we got like, based on those, we'll tell whether the model is performing well or not. Sir, we should have some metrics, Sir, to find whether the models are going or not. Like normally we cannot tell whether our like our model is based or not.",Statement
+"And knowing whether your model is performing good or not, how does it help you?",Question
+"Like. Then we can deploy the model. No, Sir. If, like if it's not, we're getting like very less values for those evaluation metrics. We cannot deploy the model again we we are going to do some preprocessing techniques like data augmentation, normalizations and like we use some dropouts in between. And we use some polling functions. Like so many so that we'll get like extra accuracies and the evaluation materials will be. Model and we can deploy the model on like.",Statement
+OK. What is data augmentation?,Question
+Data augmentation is like to increase I mean to get rid of overfitting or to increase the accuracy and the evaluation metrics we do.,Statement
+You do what?,Question
+"So basically like the data set will be given Sir, we'll do some modification in the data set itself, Sir. Like we'll be changing some values in that like whenever we are doing some model training or something, the value for example if we take some image or something. So the pixel range will be from zero to 255 like the range whenever it exceeds or something. The like at that time doing some data augmentation or things. We'll be doing.",Answer
+Who is this speaking?,Question
+"Sir Nigel, Sir. Sorry for joining date, Sir.",Statement
+"OK, miss. What is the difference between data augmentation and dropout?",Question
+"So drop out is something like we'll be. So drop code is also function in data no. So drop out like will be leaving some features in the neural network part Sir. So sorry for miscommunication, Sir. I have like very bad network. I'm sorry. OK. Thank you very much. Have a good evening guys. Thank you, Sir. Have a nice day. OK. So Suvretta, please tell me how do we produce speech.",Answer
+"Will be produce speech so Sir, when first we breathe in, when we breathe in the air, passes through our layering, there is voice box and voice box consists of vocal chords and two vocal chords. Vocal when. Vocal cords vibrate actually. It's mainly due to the vibration of vocal cords, so each vibration is different, so accordingly sound is produced. But then after that the sound is travelled back and all these mouth, lips, teeth they help in shaping the voice. Shaping the sounds that we speak. Hello.",Statement
+OK.,Answer
+And how do you perceive sound?,Question
+"Perception of sound like how how we speak and when we hear, when we hear sound. So we basically travels through our ear drums. And again, due to the vibration caused around. We listen to sound so.",Statement
+And can you hear all kinds of sounds or is there a range of frequencies?,Question
+"Yes, yes. Certain range of frequencies only that we hear usually low low frequencies we can high frequencies. It's hard for us to hear like when when there's like lot of sounds distinction between frequencies then it's low it's fine higher the frequency.",Answer
+"For which you can do. Course when there's a lot of noise, it's very hard for us to distinguish between the sounds. The humans can hear like a range of 20 to 20,000.",Statement
+"Yeah. So so, Surya Meta, what is the human perception range of frequencies?",Question
+Hello.,Statement
+"Yes, Sir. Human perception range of frequencies. It's around 20 Hertz to 20,000 Hertz, Sir.",Answer
+"OK. Let's say you want to capture all these frequencies, even in a sound, OK. So what should be your sampling frequency so that you are able to capture all these frequencies?",Question
+Yes.,Answer
+"Sampling frequency should always be it's according to Nyquist criteria, sampling frequency should be. Sampling rate should be greater than equal to the highest frequency of that signal.",Statement
+"So. Since you already said that you can hear up to 20 kilohertz frequency sounds, what should be your sampling frequency?",Question
+"Yes, Sir. OK, so the sampling frequency this is the first actually not 20,000 Hertz is the highest. So it should be greater than 20 kilohertz the sampling frequency. So 20,001 hours of sampling is enough. Yes, 2 into F Max. So here F Max is 20 kilohertz. So yes, it's it's greater than that. We can here. It should be the sampling criteria.",Answer
+Do you think what you agreed and what formula you said they are matching?,Question
+"Yes, Sir, it should be always greater than twice the highest frequency. OK, I think when I told I did not mention twice. Sorry. So now please tell me. Yes.",Answer
+For for the entire range of. Auditory perceptible. Frequencies. What should be your sampling criteria?,Question
+"For humans to hear, Sir.",Statement
+Yes.,Answer
+"Yeah. So it should be great. Sampling frequency should be greater than 2F Max, so here. If the highest frequency of the signal is 10 kilohertz, then the sampling frequency should be greater than 20 kilohertz.",Statement
+"OK. Very good. Now suppose you have sampled it at 20 kilohertz. Yes, Sir.",Answer
+And. There actually was a 12 kilohertz frequency present in the signal. What happens to the signal?,Question
+"What? What happened? I didn't get you, Sir. The signal had 12 kilohertz frequency component. You need help.",Statement
+"Yes, Sir.",Answer
+You sample that signal at 20 kilohertz.,Statement
+"Yes. So what happens to this? You said that when you are sampling it at. 20 kilohertz the maximum frequency which will stay in the signal is. 10 kilohertz, right. Yes. Now actually the signal had 12 kilohertz frequency. OK. Now, what happens to the frequency component which is 12 kilohertz when you sample it at 20 kilohertz? Radio wants to make. It's. OK. Yes, Sir. So it So what happens to the frequency is less? Then. Like example 12. So you see, we have to.",Answer
+"In square. We so we have to filter the signal to remove frequency components to prevent aliasing. That is, that is above F by two. So the cut off frequency we have to remove it to prevent aliasing.",Statement
+What is Elias Singh?,Question
+"When we do not take the Nyquist criteria into consideration, it will be distorted the output, so it will lead to aliasing. Yes.",Statement
+OK. Good. Thank you. We'll move on to. Thank you.,Answer
+Bassini.,Statement
+"Yes, Sir.",Answer
+You are too eager to give answer for her very good. So now please tell me. What is the difference between Fourier transform and short time Fourier transform?,Question
+"Fourier transform is when you apply the transformation to the entire signal and the short term Fourier transform is you take like frame by frame or a particular time frame and for that particular time frame you apply the Fourier transform so that you can like if apply for the whole signal you will just get a generalized frequency. Components. Program. But if you apply to each and every frame or a particular time frame, you can study the in detail frequency or the spectrogram components for the entire signal. Applying it on a short term signal, applying your Fourier transform to short time signals or short terms. Instead of the whole signal.",Statement
+And why do we do it?,Question
+"Uh, we do have short term for it. Confirm to like every time in it's not compulsory, but the frequency remains the same or the spectrogram will be the same throughout the whole signal. Like it keeps. Varying so to understand like in each time instant how much it is varying by how much quantity it is varying and what's the difference? We apply a short term for your transform. So what problem of Fourier transform is taken care by? Using for such time for Fourier transfer. Uh. So.",Answer
+"Here, like if you want to understand the sinusoidal frequency or like the face component of a particular local section of the signal, we can use short term for your transform, that is STFT. That is, it keeps changing for every time instance or time period, right? But in when you apply the whole Fourier transform to the entire signal, you are generalizing it. You are not able to get the change like for every time change. How much is the frequency that is changing? So that we can. Understand the short term for returns.",Statement
+"OK. Good. For each STFT, good or it is bad?",Question
+SDFD Chatham Fourier transform is better. It's definitely comparatively better than your original for your transform you you can do more analysis on this particular spectrum. Is it all good or? There are bad things also.,Statement
+"Uh, some of the drawbacks of STFT would be that. Maybe how how you use the windowing function? It depends on whether you take a good windowing function or not. So like if you take the cosine function, cosine sine function would be better than a rectangular function.",Answer
+"OK. Now coming to deep learning, can you help me understand where you should use CNN and where you should not use CNN's?",Question
+"OK, where we should use CNN and where? We cannot use. OK.",Answer
+That's right understanding.,Statement
+"Hello. So neural networks, we can use it for like image classification problems or there are many types of CNN. Like R CNN or convolutional neural networks, etc. So it has many applications like image segmentation, image classification. And all of that? Uh. So. Yeah. So can you repeat your question once?",Question
+Where should you use CNN and where you should not use CNN.,Statement
+"OK, I think CNN's are mostly useful for like feature finding. Or finding like particular pattern in your images or any object or classes or categories like how you put a filter on a particular grid and then you. Move across the. Whole feature map and then you try to get your feature or you understand the background for a particular image. So there we can do CNN, CNN models the. Like I think where you do not use CNN is like you cannot get the global information like overall information like. The yeah, like the overall information from a particular neural network, you may not be able to get. Maybe sometimes in the accuracy and the performance of some models also might. Be very less. So there again is a limitation of CNN.",Answer
+"So again, the question is, are CNS all good or there are drawbacks of CNS?",Question
+"No, there are some disadvantages of CNN. Even your overfitting problems, they can be overfitting problem if there's no proper data or if you don't do proper activation or regularization functions, and sometimes it can be computationally expensive and there's a lot of layers and you have to use a multiple filter, so it also has its own drawbacks.",Answer
+Wonderful. Thank you very much.,Statement
+"Thank you, Sir. Thank you, Sir.",Answer
+Goodnight. Then.,Statement
+New to your services. Yes. Can you?,Question
+"Yes, Sir.",Answer
+Please explain what is the difference between a regression problem and a classification problem.,Statement
+"OK, so so according to me, what? Of classifying means is. Now, let's take an example. Let's say if a person has diabetes or not. So to classify if a person has diabetes or not. It's just a binary classifier, right? So that a person has or doesn't have. So in this instance, whatever. Columns in that case features that affect it. Whether you have diabetes or not, show that if you actually have it or not. So like there are different factors like age or probably blood pressure or any other medical history. There are conditions wherein you know you have to choose whether it's either either you're having it or not in in case of classifying, there are many instances like. There's either binary classifier or multiclass classifier. So it actually depends on. So this model works on whether you have it. Or. When we go to regression problem in regression problem where there is like OK let's take for an example. We are finding something in yeah, you're trying to regenerate an image in terms of deep learning or something to find out how accurate your images, you don't actually have a class wherein you mean when you can say whether. This is actually an image or not here like you have clusters. Whether you know your on your picture is very very close to that particular cluster or not. So one more difference you can say is that probably in regression based models you can. Metrics involved is probably Mac and a the number of errors. How close you are and in classifying problems that is mostly like F1 or F1. Score accuracy precision. So that's all.",Answer
+"Yeah, very good. What is the difference between a fully connected neural network that is a multilayer perceptron network and CNN network? OK, so Sir.",Statement
+"OK, now when we talk about fully connected layers, let's let's suppose we have 3 nodes as an initial node and on top of that we have two nodes. So these three nodes are connected to those two nodes continuous in the sense the first node is connected to the top two nodes, the second one the second node and the. We should say is connect to the top 2 nodes and the third one is also connected to the top. Nodes when we talk about. Yeah, here. This is what fully connected layers are when we talk about normal convolution. Again taking the same example, let's take 3 initial and two on the top. So here it is not necessary that all the three initial nodes will have to connect to the top 2 nodes. The first be can be connected to third one, the third, the third initial. The third node can be connected to the the 2nd and the second is the first node and the middle 1 can be. To both. Why are we using it over here? Is because in combination with the network it's it's a little faster, even though like rather than going to the fully connected layers which keep, you know, having a lot of information being sent to each node. Instead we can just connect it to what is important in the conversation neural network. There might be a case of doubt where you might lose information in combination with the network, but it is not happening because at the end of the day every node, I mean every node is connected somehow and somewhere. So finally you will get all the data that is required.",Answer
+"Is there any other advantage we have by using? One relation. Other than speed, Sir.",Statement
+Yes.,Answer
+Probably I can say. It's more efficient. I'm not able to recall any other advantages.,Statement
+Why do you say it is more efficient?,Question
+"OK. So again, as as as I mentioned earlier also other than speed, it is more efficient in the terms of performing. So as I told you, if the as if the since the speed increases, the memory taken by the time and the memory also slightly lessons. When compared to that of fully connected networks. Hence, I'm calling it efficient.",Answer
+"Very good. So you said memory is also consumed is less, right?",Question
+"Yes, Sir.",Answer
+Why?,Question
+"Sir, I didn't. Am am I supposed to say nothing? I didn't hear you, Sir.",Statement
+"So my question is, why do? How can you say that memory consumed is less?",Question
+"Oh, how can I say that memory comes in? This year, OK, so. How would I suggest this is? OK. So then then we have a fully connected layer connected network. At each node connection you will have to store the data. Basically back propagation or like OK let's take in feed forward propagation as of now. So what does feed feed propagation do like? If you have 3 layers again as the initial stage and two layers and then one again 3 layers as an output. In the feed forward stage, all the nodes in the initial will have to go to the middle with the hidden layer and all the nodes of the hidden layer should also be connected to the final layer. So here this is one layer of data that is going. Now you have to update the weights when you updating the width. Again you have to go back through all these nodes thereby increasing the amount of data and memory load. I'm saying it, I mean here this. Is where I'm saying the word memory. And in the case of convolution neural networks, as I told you, we don't have. We don't the all the neurons will not be connected to the hidden layer as well as the and the final layer. Thereby the data that is propagated in the front, I mean feed feed forwarded or back propagated here the memory. Consumed. I mean the memory used will be less because not all the nodes data has to be stored. For updated.",Statement
+OK. Can you tell me one or? Two drawbacks of CNN. OK.,Answer
+Where I'm not able to recall the.,Statement
+No ground. Do you know of any classifier which which can process sequential data? Sequential data. Probably is it?,Question
+Oh.,Statement
+So what do you mean by sequential data?,Question
+"Sequential data when the current data depends on past data. Oh, OK.",Statement
+"So that is it, I. Mean is it very similar to that of the Markov models? I believe so. Probably we could say yeah, recurrent neural networks are and then would also work. For Hazard classifier to check all the what you say the sequential data.",Answer
+Your thank you stairs.,Statement
+"Thank you so much, Sir. It's fast. Yes.",Answer
+What is the difference between MFCC and STFT?,Question
+"Sir, for SFTP we basically take short time periods of a speech signal and we try to find short time piece of the speech signal and speech signal and then we apply. For it once on my bag. In MFC we are playing we are playing we we apply for a transfer on short signal short. Short frames of a signal, but then we later also apply IDT and then we apply the we apply. Melt frequency. So basically in STFT we are only finding the we are only applying for a transform, but here we are also applying Mel frequency so Mel frequency. So that we get the output in the in. I'll put in. Output in. Make up.",Statement
+"Yes, I'm listening. I mean outputs. How? How human perceives sound. OK.",Answer
+What is the difference between Fourier transform and short time Fourier transform? Why do we use STFT? Ohh. So when we apply Ray transform like HFT is basically we use it on short period of short period of. Speech signals so that we can get a better understanding. Of what the?,Question
+Ah. What is there in the signal which will help us in which will help us in getting better understanding of the? Better understanding when we try to use it for an application.,Statement
+OK. Is there. A drawback of Fourier transform which is getting handled by HFT.,Answer
+Oh.,Statement
+OK. Would you agree that STFT incurs more computational cost than Fourier transform?,Question
+Yes.,Answer
+"So. And it is costly for us in terms of computers now. We do it because we expect certain advantage, right?",Question
+"Like we use SF for small time periods now, so it will give us more. Accurate results, and like the spectrum, would be more more smoother than. What we'll get some for a time.",Statement
+"OK, let's talk about accuracy. Why do you think STFT gives better accuracy?",Question
+"Uh. It's trying to focus on a smaller region than than applying for a transform like then applying it. And then like normally it's just will take a small region and then it will apply for a transform on that. So the frequency spectrum which will get from that, it will have a more smoother curve. It will have a much smoother call than. Doesn't. Like if you only apply the traditional traditional for that once. OK, good. Thank you very much. Thanks. Thank you, Sir. Both of you can drop off.",Answer
+Lasita. Hello.,Statement
+Sir.,Answer
+Are you outside?,Question
+"Sir, I'm sitting outside my room. Not outside, Sir. One second, I will connect to my normal audio.",Answer
+OK.,Statement
+"Sir, can you hear me?",Question
+"Yes, I can hear you. Yes.",Answer
+Listen.,Statement
+"So while Hashita is setting her. System or whatever. Can we start with you, Tanya?",Question
+"Yes, Sir.",Answer
+Can you tell me what is speech?,Question
+Is it's a form of energy basically. It is the number where the vibration of particles creates sound.,Answer
+"What are the different organs? Involved in speech production. The different organs involved, the mouth ladens sirens, the music, your nose or check your lungs. And yeah, that's.",Statement
+OK. What is a spectrogram?,Question
+"The problem is disciplinary or the presentation. Those frequency, amplitude and time of residual the time is shown on the X axis. The frequency is shown on the Y axis and the amplitude is shown by the intensity of the color in the ground. OK.",Statement
+How is the spectrogram constructed?,Question
+We can use still food in the short time we can see. I didn't understand what you said. We can use SPF to construct the spectrogram.,Answer
+You can use what?,Question
+"Still, short time Fourier transform 2.",Statement
+OK so. So why should you use short time Fourier transform? Why not Courier?,Question
+"Shut. A short time for the transform gives us a better understanding of spectral components. Basically, since you are taking the frequency analysis for short windows of time, it helps us understand how frequency is changing over time. Instead of this frequency analysis for the entire signal. What is rank of a matrix? 5.",Statement
+Yeah.,Answer
+Sure. OK.,Statement
+Can you give an example of two independent events?,Question
+"Independent events are those which do not let the property of one doesn't depend on the property of another, or we can say that. For example, if we are picking the cards from a bunch of from a bunch of cards, that is 52 cards. After picking the card, if we replace the card and pick another card again, then we can say that the two events are independent since the card is being replaced again.",Answer
+"With respect to speech analysis, can you? Can you tell me two independent events?",Question
+"Yes, Sir. No, please give an example in a speech analysis scenario where 2 independent events are happening. Is.",Answer
+Sorry. Love shows.,Statement
+You are not sure. OK. What is stemming?,Question
+Selling in natural language processing is basically. Standing is it? And then it is cutting off the end at the beginning of the word to obtain the root word basically.,Statement
+"Yes. It for example, if we have played it becomes play the ending in prefix and suffix that the ad is removed. Yeah, and the router doesn't necessarily have to have a. The meaningful it doesn't. It is not necessary that the word should have meaning. It can be a meaningless goddess.",Answer
+OK. Can you please tell me one or two drawbacks of stemming?,Question
+"Ohh yes Sir. If we compare something to. Seven just cuts off the end rate. This double necessarily always end up in obtaining the same root words, because even the two words mean the same. The root word, even if the root word is the same, cutting off just the end does not give the same word. So, since we have obtained non meaningful words, it's not very useful for us. And. The second job was.",Answer
+"What are the different regularization? Techniques available in deep learning. Different regularization techniques we have L1 and L2 regularization, L1 is lasso and L2 is regularization. Oh. Those are the two that that.",Statement
+OK. What is the difference between declaration and definition in C programming?,Question
+"Declaration is basically. For example, if we take INT a, that is the declaration and definition is actually giving it a value that is in a is equal to something, so they're assigning a value to the variable. That would be definition.",Statement
+"Very good. Thank you very much. Harshita, Are you ready?",Question
+Thank you. So. So.,Statement
+So a mother has given birth to two girls. And she is expecting her third child. So the probability of third child being a boy or a girl. Is that a dependent event on the uglier born children or not? So. Sorry Sir my. Network is bad. Can you repeat again?,Question
+Your network is back. Sorry Sir. A woman has two daughters. And is expecting her third child. OK. OK.,Statement
+The sex of the third child. Whatever the probability is. Is that a dependent event or an independent event in relation to the earlier two children?,Question
+So I think it's a independent event.,Statement
+Why you think so?,Question
+"Because even if like first 2 Childs are girls. It doesn't mean that always the third child will also be a girl. I think so. That you've been the third child will be a boy. There's an equal probability. OK. You have two vectors, 1 vector is. 1/4 dimension dimensional vector. OK.",Statement
+And the second vector is A10 dimensional vector. Can you do a dot product between these two vectors?,Question
+God.,Statement
+I'm not sure.,Answer
+No problem. What is cardinality of a set?,Question
+I think that. So.,Answer
+"What is this hate? What is hate? Cardinality. Cardinality. So it's like a number. I need some row of elements in the set. So if you. Have in a set like 5 #5 elements, then the cardinality. Will be 5. OK. So if there are five members, the cardinality of the set will be 5. Five elements and the cardinality. Of set will be 5. Very good. Suppose you have a set of natural numbers. OK, Sir.",Statement
+What is the cardinality of this set?,Question
+Set of natural numbers.,Statement
+Yes.,Answer
+So it's like infinite set or like finite.,Statement
+"I have told you what I have. We find exact. Yeah, yeah. Then. I'm not sure about inferring whether we can have a cardinality as infinite or not, but I only know that the number of elements will be the cardinality of this, so I think it's infinite. Infinite. Very good.",Answer
+"OK. So you have one set set a which is the set of squares of natural numbers. OK so. And. Then you have a set. B. Which is the set of even numbers. OK, Sir.",Statement
+"What is going to be the intersection set of these two sets? Please sit down squares and be sitting. Uh, Sir, it will be, uh. So union. Ohh no. So can you repeat again what is the?",Question
+Intersector.,Answer
+Uh. So intersection will be the square soft.,Statement
+Oh.,Answer
+"Even numbers. Very. Good. So yeah. So in a set, if we have. A square so from. One to 10 only the even squares will have the event ending, ending this as even numbers. So when we take the intersection we only get the squares of even numbers. Very good. In Python programming. You are defining your function. And you are using that function. OK, Sir. OK. So what is the? Order of sequence in which there should be done. 1st we will define the function. Whatever we wanna do, just define keyword is used with the name of the function and whatever program we want to do. We think that the function and when you want the exit like. Use that function. We will give the. Input by using the function name. For example, if I'm using the function as even then even of the input, whatever. You want to give.",Statement
+Well.,Answer
+"Thank you very much. Thank you, Sir.",Statement
+Were you tense?,Question
+Sir.,Answer
+Where do 10?,Question
+"No, Sir. Actually the network issue so and my earphones send stopped working. So there is a disruption that's why I got them. That's it, no problem.",Answer
+"Thank you very much and good night. Sorry. Thank you. Thank you, Sir.",Statement
+Yeah. We'll go one after another. Let me start with just one thing and then we'll. Go to Mahesh.,Answer
+OK. OK.,Statement
+Jaswanti tell me. How speech is produced?,Question
+Oh.,Answer
+Space is produced by the communication of the. By vocal apparatus using airflow or artificial. Hello.,Statement
+Yes.,Answer
+First speech is produced by the local apparatus using air flow.,Statement
+Flow. What are the different organs involved with speech production?,Question
+"Local drug alarm NICs, diaphragm. Gram. Thank God. OK. Lungs, OK. What is the human perceptible auditory Lance? What is the range of frequencies to which human? Beings can hear.",Statement
+Ohh. RTB.,Answer
+Do we measure frequencies in DB?,Question
+Huh.,Statement
+Do we measure frequencies in DB?,Question
+"No, Sir.",Answer
+How do we measure it?,Question
+But.,Statement
+"In hearts, we can. We'll measure that.",Answer
+OK. So now please tell me. What is the range of frequencies? Which are perceptible to human ear.,Statement
+I'm not sure since.,Answer
+No problem. OK. What is the difference? What is the difference between Fourier transform and short time Fourier transform?,Question
+Free transformer.,Statement
+Are you able to hear me?,Question
+"Yeah, yes, yes, Sir. Short time Fourier transform, Sir.",Answer
+Select. OK. Fourier transform. Analyze the entity signal at once and the short term Fourier transform will break the signal into. Smaller. Parts. OK and. And its performs to each of parts and give information for the on the both frequency and how it sends with that time.,Statement
+OK. What is windowing?,Question
+Windowing is. Linens computing. It computes difficult user interface.,Statement
+Can you please repeat your answer?,Question
+Its efforts to the graphical user interface proof.,Answer
+"OK, just give me a minute. OK, Phil.",Statement
+Yeah. So how? What? What is? What is we doing?,Question
+Yes. I'm not sure. No problem.,Answer
+When I I said that about the interface after.,Statement
+"Sure, no problem. So what is the? You have studied about this convolutional neural networks, right?",Question
+"Yes, Sir.",Answer
+OK. What are the different components of a CNN network architecture?,Question
+"Convolution layer. OK. Some output layer and activation. MHM. And we studied about the pooling, Sir. OK.",Statement
+OK. So what happens in the pulling layer?,Question
+"To reduce it, reduce to the spatial dimensions and it's converted to the features converted to the features.",Statement
+OK. What are the different kind of pooling available?,Question
+Ohh. Average. Storage and Max. I was just pulling a match today. OK. What is just try when we are doing fully pulling.,Answer
+Good.,Statement
+What is just trying? Have you have you heard of a term called strive?,Question
+"Hi. Yes, Sir.",Statement
+But what does it mean?,Question
+Number of steps that filters and kernels move across to the input. OK. Very good. Thank you very much. Thank you. Yeah.,Statement
+"We will move on to. My heads. Sir one second, Sir.",Answer
+Yeah. So what do you mean by standard deviation? What do you mean?,Question
+Standard deviation. US. But it is a measure of variability of some set of. And you. Hello.,Statement
+"Yeah, you are saying something or you are searching. For it or what is it?",Question
+"No, Sir, I'm saying.",Answer
+Then you complete your thing.,Statement
+"Sir. Sir, it is an variable of some set of values.",Answer
+OK. Why is it calculated and where is it? Used.,Statement
+"Sir, to calculate the mean average.",Answer
+Mean average. Why do we need and how do we use standard deviation to calculate mean average? Are you able to hear me?,Question
+"Yes, now I'm. Able to hear.",Answer
+Now you are able to hear. OK. How do you do that?,Question
+It is to calculate the mean.,Answer
+How do you use standard deviation to calculate the mean?,Question
+So by taking the mean of. The difference of I mean observations from the mean.,Statement
+I'm not able to hear you.,Answer
+The average means.,Statement
+What is average mean can you can you give the mathematical formula for average mean?,Question
+"Sir, one by Sigma Square.",Answer
+One by Sigma squared is the average mean. What is Sigma?,Question
+"No. Yes, I am not aware of that.",Answer
+What? What are you not aware of Sigma or deviation?,Question
+Sigma.,Statement
+So how did you know that average mean formula is 1 by Sigma Square? Where did you get it from?,Question
+"So I mean, I'm gonna guess. I have read it somewhere.",Statement
+"Yes, OK. Bye. OK, suppose there is a signal which you are sampling at 20 kilohertz. What is the maximum frequency which is present in this signal?",Question
+"Maximum frequency, Sir? Yes. Sir one second. Sir, no ideas. OK. Thank you very much. Thanks to both of you. Thanks. Thank you, Sir.",Statement
+How are you feeling today? What's up?,Question
+"Sorry. Good Sir. Are you? If you are using some earbuds or something of that nature, can you remove that and probably directly speak? OK, so Shruti will get started with you.",Statement
+"Yes, Sir.",Answer
+Tell me what is the use? Of differentiation and integration.,Statement
+Use of differentiation and integration in what context? Why are you learning it in that context?,Question
+"Why am I learning? Yes, OK. OK. Differentiation in context of, at least in context of speech processing, can be used for feature extraction. And it can also be used, uh, like. Novels are characterized right in different forms, so for form and analysis, and if we talk about integration, we can use it for I think, filtering. Techniques, yeah.",Statement
+"Since you spoke about speech processing, is speech stationary signal or non stationary signal?",Question
+Stationary symbol. Speech is a non stationary signal.,Statement
+Why do you say that? Is that something you learned in signal processing?,Question
+"Not necessarily, but I've come across it in a few papers that I've read.",Answer
+"So when you say it is non stationary signal, what does it mean? How do you define a non stationary signal?",Question
+"That it's. I I know that a stationary signal is when you have like mean, variance etcetera, they stay the same over the time period. So when you say a non stationary signal, I think it's more dynamic so over a period of time. Statistical properties like mean and variance and all that will vary.",Statement
+Very good. What is the limitation of perceptron which is overcome by using? Any other network?,Question
+"OK. A limitation of a perceptron. Is. I. OK, so we've in deep planning as far as we plan, they have perceptrons have, we've learned with binary inputs zero and one not multiclass. So I think that they can. I mean, as as far as I've learned, they can only produce outputs of 0 and one. So I think multi class classification is not possible with perception.",Statement
+"I understand they are not. They are not. It's not possible to generate multiclass classification with perceptron, but why do you say they would only produce zero and one?",Question
+"Because even the inputs are typically 0 and so we, I mean it's used for only binary classification tasks like we can take an example of mails. So if you want to classify a mail as spam or not spam or if you want to classify. Some movie with IMDb rating more than 8 or less than 8. Something like.",Statement
+Can can I use a perceptron for regression problem?,Question
+I don't think Perceptrons can be used for regression problem because for regressions I think the output the sigmoid function ranges from zero to 1. So I don't think it can be used for. Regression tasks.,Answer
+What is the role of sigmoid function in perceptron?,Question
+OK. I'll. But I I don't know the answer to that question.,Statement
+"No problem shruti. Thank you very much. We'll go to samita. Yes, Sir.",Answer
+Amita. What was your marking quiz?,Question
+"Marking Quiz 2, I guess. You got 2 out of 10.",Statement
+"Yes, Sir.",Answer
+OK. So did you analyze to find out where you lost the marks?,Question
+"Yes. Actually, I didn't. I just did. I got confused between the options while doing it like I was bit tensed while doing the quiz.",Answer
+Very good. No problem. At least you have analyzed. That you can.,Statement
+"Yes, I have went through the the questions again.",Answer
+"More careful next time. Be care more careful next time, OK?",Question
+"Yes, Sir.",Answer
+Yeah. So you know what? Is your windowing function in speech processing.,Statement
+"Can you come again, Sir? What is the windowing function in speech processing?",Question
+"So basically, windowing functions are like smooth. Functions like which go through zeros at the borders. So like, it's like by if we multiply the input signal with the windowing function, the windowing function also goes to 0. Yeah. So that the discontinuity at the border becomes invisible.",Statement
+OK. Why do we do with the?,Question
+"Also windowing, we do it. Sir, because it is used to generate, you know, the magnetic field and transfer the electrical energy.",Statement
+"Like, what do you say?",Question
+"I'm not able to explain it like properly, but yeah. So like basically to modify the amplitude.",Answer
+"So what does mathematically function? I mean, how do you represent a windowing function mathematically? What kind of operation is used to represent a windowing function?",Question
+So. Like operation I didn't get it.,Statement
+You know what are mathematical operators?,Question
+"Yes, like I think the windowing can be mathematical. It it can be mathematically represented in 0 value like in within a chosen interval.",Answer
+"Yeah, but what is the operation? You know what are operations?",Question
+"So multiplying. Yes, Sir. Multiply. Multiplied. Very good. So we do a multiplying in time domain or in frequency domain. So in time domain. So a multiplication in time domain translates into what kind of operation in frequency domain.",Statement
+It translate. It like it's a convolution.,Answer
+"OK. So when you are multiplying a window with a signal in time domain, what is happening in frequency domain?",Question
+I have no ideas like proper idea.,Answer
+So.,Statement
+"You said it is convolution, right?",Question
+"Yes, Sir.",Answer
+Under the convolution loop. Like in normally or like in terms of speech.,Statement
+"Whichever way it is convenient for you, you. Can explain that way?",Question
+"OK Sir generally. So in figural in mathematical way, it is combining of signals to get a 3rd signal. So it's like it's like come it combines 2 functions by flipping the second and multiplying it. Right. That's all for now. OK.",Statement
+Yeah. So how did you feel when you tense?,Question
+"Yes, bit.",Answer
+Because I started asking very aggressively and tough. Questions. Is it?,Question
+"No, Sir, it's not like not only with the subject. Like everywhere, I get tense while answering questions. Like I'll be knowing it. But, you know, while answering it, I might not be able to properly deliver the answer. OK, that takes time for me to.",Answer
+"What about you, Shruti?",Question
+"But I I don't get very nervous, but I sometimes it depends. If I don't know, I just don't bother wasting too much time on it.",Statement
+So why do 10s or not?,Question
+"Because it's not graded, I wasn't very tensed. OK. Suppose if you are graded, you would have become tense. A little bit, a little bit. Sure. Thank you very much. Anyway, I basically asked little difficult questions to put you into a stress situation, OK? So that that toll also gets captured in the voice.",Statement
+So how did you think I answered?,Question
+"I was not evaluating so it was just an answer, OK.",Answer
+"OK. Yes, thank you, Sir.",Statement
+I don't even remember what questions I asked. Thank you very much.,Answer
+"Thank you, Sir. Thank you, Sir.",Answer
+"Can drop off, yeah. Audio file Transcript Yeah.",Statement
+So Mr.,Answer
+subas.,Statement
+It said.,Answer
+What is windowing function in speech processing? What is windowing in speech processing?,Question
+"Sir windang is. Enjoying his speech, processing, his splitting an input signal into temporal. Segments.",Statement
+And why do we use windowing?,Question
+So that my pardon.,Answer
+To get the temperance segments.,Statement
+Why is that necessary?,Question
+"From Spectrum, we'll find.",Statement
+So.,Answer
+Five window inch.,Statement
+What is the disadvantage of windowing?,Question
+No.,Answer
+Yeah. Where we can get rejected vision also like this.,Statement
+"We can't, Sir, but we'll accept only. I didn't know.",Answer
+"Like we, we can prevent a freak.",Statement
+I.,Answer
+Dependency leakage and all.,Statement
+OK.,Answer
+Suppose we don't do windowing.,Statement
+What would happen?,Question
+The frequency leakage happens and we not get the outcome and outcome concept.,Statement
+And why is that?,Question
+Because.,Statement
+We cannot divide these segments.,Answer
+"Properly. Yeah, I I I get what you are saying. You are saying that it will not be proper.",Statement
+We can't process it.,Answer
+Translate them to.,Statement
+"OK. Thank you very much, Subhash. We'll move on to Surya.",Answer
+Listen. Surya.,Statement
+So. So.,Answer
+Hello Sir.,Statement
+Are you there?,Question
+It said it said. Something is wrong. OK you please set it right.,Answer
+"You said it, yeah. Sir, I didn't get you, Sir.",Statement
+Why do I hear a echo from your system?,Question
+We go from. Yes.,Answer
+"Don't know, Sir, it's nothing.",Statement
+I'm not getting it wrong. No problem.,Answer
+Like it's college network issues.,Statement
+"So that's it. OK, understood.",Answer
+What is the difference between derivative and integration?,Question
+"Derivation and integration. Difference between derivation and integration, Sir.",Statement
+Yes. So like.,Answer
+Between television and regulation. Like. Depends. With this process like.,Statement
+"I don't know exactly, Sir, but instantaneous rate of change like it can breaks down the functions like after the instant.",Answer
+And we can respect like to each particular quantity like while integration is an average rate we can cause the summation of continuous data so. By given of the period of range or both are inverse of each other so. Hmm.,Statement
+It's like.,Answer
+So where should we?,Question
+Please Mr. listen.,Statement
+Where do we use integration and where do?,Question
+We use.,Answer
+Derivation. Differential like like if we have the function like representing the position of an object Sir.,Statement
+So over time like it's derivative would be you like the velocity of the object or each each point of intention.,Answer
+"Yeah, but that is more of a that is more of a mathematical concept.",Statement
+I'm asking specifically with respect to speech processing.,Answer
+Like when you.,Statement
+Can you tell me where we are using integration and where we are using derivation?,Question
+Like. 2. To produce like spoken language understanding systems in that in that we can.,Statement
+Anything little more specific?,Question
+Specific we need more specific where exactly integration is getting used. Like a pitch estimation or format tracking. For speech enhancement.,Statement
+Very good.,Answer
+How how do you use integration for pitch estimation?,Question
+"So, like in pitch estimation algorithm Sir like we find the rate of the change of the speed signal.",Answer
+Sir like it can help the identifying the regions for rapid frequency change. The corresponding pitch periods.,Statement
+So you find the rate of change.,Answer
+Of the amplitude by doing integration.,Statement
+So Mr. It's a. So let me make sure I understand it.,Answer
+You are saying you use integration to find the rate of change of amplitude.,Statement
+What's the date of the swing of your speech signal?,Question
+OK. Very good.,Answer
+And.,Statement
+So you know what is your dot product?,Question
+"Dot product, Sir.",Statement
+"Yes, like.",Answer
+The definition or any other thing.,Statement
+What do you understand from dot product?,Question
+Explain it to me. Like it's and also has the scalar products here.,Statement
+OK.,Answer
+Anything else?,Question
+"Or like. Which, like which measures how closely to two vectors, aligns in terms of the directions. Each so which can be used to compare the two vectors cell to understand and the impact the repositioning of one or. Both of them.",Statement
+And how do you do that? What do you do like?,Question
+"The two vectors, if there are the A&B in and.",Statement
+"In N dimensional space, so we can like.",Answer
+Use dot product like given 2 vectors.,Statement
+So for example some 2 vectors and we can we calculate the product of the corresponding vectors like our components like we multiply each component of vector A with the corresponding of the B and then we sum the products here like we Add all the products together so we get the dot product over there. Very good.,Answer
+You said that this is used. For finding out.,Statement
+"For various reasons, what are the different use cases of dot product? Where do you use dot?",Question
+Use of dot product in speech project Sir.,Statement
+Yes.,Answer
+Speech processing. Geometry like to identify lengths and angles.,Statement
+"OK, tell me how do you find?",Question
+Or the future extra. The angles we can.,Statement
+I said. OK. Yes.,Answer
+So how does that product help you find an angle between two vectors?,Question
+Two dot product. Find the angles between two vectors.,Statement
+Yes. I don't know.,Answer
+10 seconds.,Statement
+Thank you very much.,Answer
+Have a good evening guys.,Statement
